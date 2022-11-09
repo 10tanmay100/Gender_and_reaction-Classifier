@@ -1,0 +1,23 @@
+tensorflow
+dvc
+pandas
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+types-requests
+scipy
+flask
+flask-cors
+# tensorflow-gpu
+# mlflow==1.26.1
+opendatasets
+streamlit
+gunicorn
+-e .

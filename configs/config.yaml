@@ -1,0 +1,13 @@
+artifacts:
+  artifact_name:"artifacts"
+
+data_ingestion:
+  stage_folder_name: data_ingestion
+  data_source_one: https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
+  data_source_second: https://www.kaggle.com/datasets/chazzer/smiling-or-not-face-data
+  local_data_file_one: artifacts/data_ingestion/data_first/raw_data/
+  local_data_file_two: artifacts/data_ingestion/data_second/raw_data/
+  local_data_file_train_one: artifacts/data_ingestion/train_first/
+  local_data_file_train_two: artifacts/data_ingestion/train_second/
+  local_data_file_test_one: artifacts/data_ingestion/test_first/
+  local_data_file_test_two: artifacts/data_ingestion/test_second/

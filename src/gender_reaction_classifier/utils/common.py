@@ -30,4 +30,3 @@ def create_directory(filepaths:list):
         return f"Issue has happened while creating directory, error is {e}"
 
 
-

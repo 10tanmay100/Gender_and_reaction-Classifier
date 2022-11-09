@@ -13,9 +13,5 @@ class DataIngestionConfig:
     source_second_url:str
     local_data_file_one:Path
     local_data_file_two:Path
-    local_data_file_train_one:Path
-    local_data_file_train_two:Path
-    local_data_file_test_one:Path
-    local_data_file_test_two:Path
 
 
